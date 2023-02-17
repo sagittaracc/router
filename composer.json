@@ -1,4 +1,5 @@
 {
+    "name": "sagittaracc/router",
     "autoload": {
         "psr-4": {
             "Sagittaracc\\Router\\": "src/",
